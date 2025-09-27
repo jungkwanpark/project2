@@ -12,7 +12,7 @@ sudo apt install git
 git --version
 
 ### Git clone 실행 ###
-git clone https://github.com/jungkwanpark/project1.git
+git clone https://github.com/jungkwanpark/project2.git
 
 ### 디렉토리 이동 ###
 cd project2
