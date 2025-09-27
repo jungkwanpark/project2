@@ -15,7 +15,7 @@ git --version
 git clone https://github.com/jungkwanpark/project1.git
 
 ### 디렉토리 이동 ###
-cd project1
+cd project2
 ls -la
 
 ### 의존성 설치 ###
