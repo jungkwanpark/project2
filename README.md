@@ -36,13 +36,13 @@ AZURE_SEARCH_KEY_FIELD_NAME="your-azure-ai-search-key-field-name"
 AZURE_SEARCH_CONTENT_FIELD_NAME="your-azure-ai-search-content-field-name"
 --------------------------------------------------------------
 
-### Streamlit 으로 app_semantic_kernel.py 파일 실행 ###
-python3 -m streamlit run app_semantic_kernel.py
+### Streamlit 으로 app_semantic_kernel.py 파일 실행 (포트 8080 으로 실행) ###
+python3 -m streamlit run app_semantic_kernel.py --server.port 8080
 
 ```
 
 ## 🖥️ 원격 클라이언트에서 서버 접속
 
 ```bash
-http://your-server-domain:8501
+http://your-server-domain:8080
 ```
