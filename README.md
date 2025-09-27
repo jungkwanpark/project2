@@ -1,4 +1,4 @@
-# 📊 Semantic Kernel 및 Azure AI Foundry 기반 미국 주식 분석 서비스
+# 📊 Semantic Kernel 및 Azure AI Foundry 기반 주식 AI Agent 서비스
 
 ## 🖥️ 서버 환경 세팅 예시 (Ubuntu 22.04 기준 예시)
 
