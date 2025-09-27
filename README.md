@@ -1,4 +1,4 @@
-# 📊 LLM 및 RAG 기반 미국 주식 분석 서비스
+# 📊 Semantic Kernel 및 Azure AI Foundry 기반 미국 주식 분석 서비스
 
 ## 🖥️ 서버 환경 세팅 (Ubuntu 22.04)
 
