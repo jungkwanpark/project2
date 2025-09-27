@@ -1,4 +1,4 @@
-# 📊 Azure AI Foundry 및 Semantic Kernel 기반 주식 Agent 서비스
+# 📊 Azure AI Foundry 및 Semantic Kernel 기반 주식 AI Agent 구현
 
 ## 🖥️ 서버 환경 세팅 예시 (Ubuntu 22.04 기준 예시)
 
