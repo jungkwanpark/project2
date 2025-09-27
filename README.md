@@ -1,6 +1,6 @@
 # 📊 Semantic Kernel 및 Azure AI Foundry 기반 미국 주식 분석 서비스
 
-## 🖥️ 서버 환경 세팅 (Ubuntu 22.04)
+## 🖥️ 서버 환경 세팅 (Ubuntu 22.04 기준 예시)
 
 ```bash
 ### Package 업데이트 및 Python 설치 ###
